@@ -1,0 +1,36 @@
+
+				  _____ ___ ____   _____  _    ____   _____ ___  _____ 
+				 |_   _|_ _/ ___| |_   _|/ \  / ___| |_   _/ _ \| ____|
+				   | |  | | |       | | / _ \| |       | || | | |  _|  
+				   | |  | | |___    | |/ ___ \ |___    | || |_| | |___ 
+				   |_| |___\____|__ |_/_/_ _\_\____|__ |_|_\___/|_____|
+				              |  _ \| | | | |   | ____/ ___|           
+				              | |_) | | | | |   |  _| \___ \           
+				              |  _ <| |_| | |___| |___ ___) |          
+				              |_| \_\\___/|_____|_____|____/           
+                                                       
+
+
+Le tic-tac-toe, aussi appelé « morpion » est un jeu de réflexion se pratiquant à deux joueurs au tour par tour et dont 
+le but est de créer le premier un alignement sur une grille 3x3.
+
+- Choisir votre pseudo ainsi que celui de votre adversaire.
+- Choisir O ou X, vous ne pourrez que poser celui que vous avez choisi.
+- Les joueurs jouent chacun leur tour.
+- Le premier joueur dépose un pion puis c'est au tour de son adversaire.
+- Le but du jeu est de réussir à aligner 3 pions à la suite :
+	• à la verticale
+	• à l'horizontale
+	• ou à la diagonale.
+Il faut donc être attentif pour bloquer son adversaire avant qu'il n'aligne ses trois pions.
+- Vous ne pouvez poser votre pion que sur une case vide.
+- Si l'un des joueurs a 3 de ses pions alignés, il gagne la partie et vis versa.
+- Si la grille est pleine et que aucun des joueurs n'a réussi à aligner 3 de leur pions, c'est un match nul !
+
+
+Pour plus d'informations vous pouvez vous rendre sur cette page : https://fr.wikipedia.org/wiki/Tic-tac-toe.
+
+C'est à vous de jouer !
+
+1) BACK
+2) QUITTER LE JEU
